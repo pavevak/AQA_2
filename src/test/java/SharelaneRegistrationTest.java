@@ -36,7 +36,7 @@ public class SharelaneRegistrationTest extends BaseTest {
         driver.findElement(By.id("password")).sendKeys("standrat");
         driver.findElement(By.id("user-name")).sendKeys("standrat");
         System.out.println("");
-
+12323415
 
     }
 
